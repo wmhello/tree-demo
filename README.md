@@ -6,11 +6,11 @@
 
 #### 开启节点显示
 
-![开启节点显示](D:\vue\tree-demo-1\Screenshots\tree-expand.png)
+![开启节点显示](https://github.com/wmhello/tree-demo/raw/master/Screenshots/tree-expand.png)
 
 #### 关闭节点显示  
 
-![](D:\vue\tree-demo-1\Screenshots\tree-close.png)
+![关闭节点显示](https://github.com/wmhello/tree-demo/raw/master/Screenshots/tree-close.png)
 
 
 
